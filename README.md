@@ -1,1 +1,1 @@
-# NTUST-1041-ML-HW01
+![q3-1.png](/output/q3-1.png)
